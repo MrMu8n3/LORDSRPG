@@ -1,2 +1,5 @@
-# LORDSRPG
-Discord Role Playing Game 
+
+# **LORDS RPG**
+
+Discord Role Playing Game
+***
